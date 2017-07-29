@@ -1,0 +1,37 @@
+{
+  "name": "FlyCity",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "fetch-jsonp": "^1.1.1",
+    "process-nextick-args": "^1.0.7",
+    "react": "^15.4.1",
+    "react-native": "^0.38.0",
+    "react-native-root-toast": "^1.0.3",
+    "react-native-scrollable-tab-view": "^0.6.7",
+    "react-native-swipe-list-view": "^0.3.1",
+    "react-native-swiper": "^1.5.4",
+    "react-native-tab-navigator": "^0.3.3",
+    "react-native-ui-kitten": "^2.0.1",
+    "react-native-vector-icons": "^3.0.0",
+    "react-navigation": "^1.0.0-beta.11",
+    "react-redux": "^4.4.6",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.1.0",
+    "whatwg-fetch": "^2.0.1"
+  },
+  "jest": {
+    "preset": "jest-react-native"
+  },
+  "devDependencies": {
+    "babel-jest": "17.0.2",
+    "babel-preset-react-native": "1.9.0",
+    "jest": "17.0.3",
+    "jest-react-native": "17.0.3",
+    "react-test-renderer": "15.3.2"
+  }
+}
