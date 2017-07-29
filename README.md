@@ -1,4 +1,4 @@
-# react-native-gank.io
+# hiwxcs.cn
 
 A cross platform App which shows the data from [gank.io](http://gank.io)
 
