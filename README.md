@@ -1,22 +1,22 @@
 # hiwxcs.cn
 
-A cross platform App which shows the data from [gank.io](http://gank.io)
+A cross platform App.
 
 - react-native version: **0.38**
 
 - redux architecture
 
-*Read this in other languages: [简体中文](https://github.com/corsak/react-native-Gank/blob/master/README.zh-cn.md)*
+*Read this in other languages: [简体中文](https://github.com/corsak/flycity-app-3.0/blob/master/README.zh-cn.md)*
 
 ## Download
 
-Apk file is [here](https://github.com/corsak/react-native-Gank/blob/master/android/app/app-release.apk)
+Apk file is [here](https://github.com/corsak/flycity-app-3.0/blob/master/android/app/app-release.apk)
 
 ## How to run it
 
-1. git clone https://github.com/corsak/react-native-Gank
+1. git clone https://github.com/corsak/flycity-app-3.0
 
-2. cd react-native-Gank
+2. cd flycity-app-3.0
 
 3. npm install
 
@@ -28,52 +28,52 @@ Apk file is [here](https://github.com/corsak/react-native-Gank/blob/master/andro
 
 ### good layout design
 
-![](https://github.com/corsak/Gank.io/raw/master/screenshot/hometab.png)
+![](https://github.com/corsak/flycity-app-3.0/raw/master/screenshot/hometab.png)
 
 
 ### get categorized and random contents
 
-![](https://github.com/wangdicoder/Gank.io/raw/master/screenshot/discoverytab.png)
+![](https://github.com/corsak/flycity-app-3.0/raw/master/screenshot/discoverytab.png)
 
 
 ### iOS user interface
 
-![](https://github.com/corsak/Gank.io/raw/master/screenshot/moretab.png)
+![](https://github.com/corsak/flycity-app-3.0/raw/master/screenshot/moretab.png)
 
 
 ### custom App theme
 
-![](https://github.com/corsak/Gank.io/raw/master/screenshot/theme.gif)
+![](https://github.com/corsak/flycity-app-3.0/raw/master/screenshot/theme.gif)
 
 
 ### night mode
 
-![](https://github.com/corsak/Gank.io/raw/master/screenshot/nightmode.gif)
+![](https://github.com/corsak/flycity-app-3.0/raw/master/screenshot/nightmode.gif)
 
 
 ### image box
 
-![](https://github.com/corsak/Gank.io/raw/master/screenshot/girls.gif)
+![](https://github.com/corsak/flycity-app-3.0/raw/master/screenshot/girls.gif)
 
 
 ### powerful web view
 
-![](https://github.com/corsak/Gank.io/raw/master/screenshot/webview.gif)
+![](https://github.com/corsak/flycity-app-3.0/raw/master/screenshot/webview.gif)
 
 
 ### collection contents
 
-![](https://github.com/corsak/Gank.io/raw/master/screenshot/collection.gif)
+![](https://github.com/corsak/flycity-app-3.0/raw/master/screenshot/collection.gif)
 
 
 ### reorder
 
-![](https://github.com/corsak/Gank.io/raw/master/screenshot/order.gif)
+![](https://github.com/corsak/flycity-app-3.0/raw/master/screenshot/order.gif)
 
 
 ### pull up to refresh
 
-![](https://github.com/corsak/Gank.io/raw/master/screenshot/listviewRefresh.gif)
+![](https://github.com/corsak/flycity-app-3.0/raw/master/screenshot/listviewRefresh.gif)
 
 
 ## Other Features
